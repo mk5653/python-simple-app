@@ -6,5 +6,6 @@ elif age < 18 :
     print ("you can not vote try next time ")
 else:
     "please insert your correct age "
+    #happy ending 
 
     
